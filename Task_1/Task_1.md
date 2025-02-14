@@ -2,4 +2,4 @@
 
 ** 1. Сообщение об ошибке на странице ** На странице отображается плашка с ошибкой хотя станица отображается корректно.   
 Приоритет: high   
-![](https://avatars.mds.yandex.net/i?id=310645b7823dfcafba30bfb0b5e7b131c942bf23-7757653-images-thumbs&n=13)
+![](https://github.com/MorevDA/AvitoTech_QA-trainee/blob/24ad0b41cd737f82d2b71af56e4af15bbbc22d09/Task_1/screenshots/bag_1.png)
